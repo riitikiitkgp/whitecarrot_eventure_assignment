@@ -26,8 +26,5 @@
 /backend/venv
 
 # Backend credentials and tokens
-/backend/credentials.json
-/backend/token.json
 
 # Ignore Python cache files
-/backend/__pycache__/
